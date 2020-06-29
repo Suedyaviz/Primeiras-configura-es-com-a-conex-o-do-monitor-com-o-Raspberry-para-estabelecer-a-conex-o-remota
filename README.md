@@ -1,1 +1,1 @@
-# Primeiras-configura-es-com-a-conex-o-do-monitor-com-o-Raspberry-para-estabelecer-a-conex-o-remota
+# Primeiras configurações feitas no raspberry conectado ao monitor para ter o acesso remoto da placa.
