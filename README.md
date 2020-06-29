@@ -1,0 +1,1 @@
+# Primeiras-configura-es-com-a-conex-o-do-monitor-com-o-Raspberry-para-estabelecer-a-conex-o-remota
